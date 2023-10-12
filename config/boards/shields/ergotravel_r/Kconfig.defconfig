@@ -1,2 +1,6 @@
+if SHIELD_ERGOTRAVEL_R
+
 config ZMK_KEYBOARD_NAME
 	default "Ergotravel R"
+
+endif
