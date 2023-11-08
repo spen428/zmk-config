@@ -3,7 +3,7 @@ include:
 #    shield: ergotravel_left
 #  - board: nice_nano_v2
 #    shield: ergotravel_right
-#  - board: nice_nano_v2
-#    shield: ergotravel_l
+  - board: nice_nano_v2
+    shield: ergotravel_l
   - board: nice_nano_v2
     shield: ergotravel_r
