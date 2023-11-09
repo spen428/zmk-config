@@ -4,6 +4,6 @@ include:
 #  - board: nice_nano_v2
 #    shield: ergotravel_right
   - board: nice_nano_v2
-    shield: ergotravel_l
+    shield: ergotravel_left_standalone
   - board: nice_nano_v2
-    shield: ergotravel_r
+    shield: ergotravel_right_standalone

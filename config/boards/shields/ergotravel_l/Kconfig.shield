@@ -1,2 +1,0 @@
-config SHIELD_ERGOTRAVEL_L
-	def_bool $(shields_list_contains,ergotravel_l)

@@ -1,6 +1,0 @@
-if SHIELD_ERGOTRAVEL_L
-
-config ZMK_KEYBOARD_NAME
-	default "Ergotravel L"
-
-endif

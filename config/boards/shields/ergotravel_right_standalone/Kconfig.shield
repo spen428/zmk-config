@@ -1,0 +1,2 @@
+config SHIELD_ERGOTRAVEL_RIGHT_STANDALONE
+	def_bool $(shields_list_contains,ergotravel_right_standalone)

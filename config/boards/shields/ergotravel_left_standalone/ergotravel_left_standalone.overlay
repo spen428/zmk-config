@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "ergotravel_l.dtsi"
+#include "ergotravel_left_standalone.dtsi"
 
 &kscan0 {
 	col-gpios

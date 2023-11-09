@@ -1,0 +1,6 @@
+if SHIELD_ERGOTRAVEL_LEFT_STANDALONE
+
+config ZMK_KEYBOARD_NAME
+	default "Ergotravel LSO"
+
+endif
