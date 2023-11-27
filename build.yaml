@@ -1,9 +1,9 @@
 include:
-#  - board: nice_nano_v2
-#    shield: ergotravel_left
-#  - board: nice_nano_v2
-#    shield: ergotravel_right
   - board: nice_nano_v2
-    shield: ergotravel_left_standalone
+    shield: ergotravel_left
   - board: nice_nano_v2
-    shield: ergotravel_right_standalone
+    shield: ergotravel_right
+#  - board: nice_nano_v2
+#    shield: ergotravel_left_standalone
+#  - board: nice_nano_v2
+#    shield: ergotravel_right_standalone
