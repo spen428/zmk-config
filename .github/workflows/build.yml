@@ -1,5 +1,12 @@
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
+  prebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Move keymap file
+        run: mv config/ergotravel.keymap config/boards/shields/ergotravel/
   build:
+    needs: prebuild
     uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
